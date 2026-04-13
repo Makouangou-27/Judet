@@ -1,1 +1,1 @@
-# JudetUn code
+print ("judet" )
