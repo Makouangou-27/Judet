@@ -1,2 +1,1 @@
-# Judet
-Un code
+# JudetUn code
